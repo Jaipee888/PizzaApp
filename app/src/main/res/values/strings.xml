@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="create_order"> Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="stores_tab">Stores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_top">Top Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="pizza">
+        <item>Diavolu</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+   <string-array name="stores">
+       <item>Kalwa</item>
+       <item>Thane</item>
+   </string-array>
+</resources>
